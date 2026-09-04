@@ -159,9 +159,9 @@ http://127.0.0.1:5000
 **Pradheepa M**  
 *Cyber Security Enthusiast*
 
-[![GitHub](https://img.shields.io/badge/GitHub-pradheepa73-181717?logo=github)](https://github.com/pradheepa73)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradheepa-0A66C2?logo=linkedin)](https://linkedin.com/in/pradheepa)
-
+**Connect:**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradheepa-0A66C2?logo=linkedin)](https://www.linkedin.com/in/pradheepa-m-051728372)
+- [![GitHub](https://img.shields.io/badge/GitHub-pradheepa73-181717?logo=github)](https://github.com/pradheepa73)
 </div>
 
 ---
